@@ -28,7 +28,7 @@ Dependencies:
 
 When using this software, make sure the src/ and $PETSC_DIR/bin folders are
 added to the PYTHONPATH environment variable. If you are using bash, this can
-be accomplished executing the followind command:
+be accomplished executing the following command:
 
 $ export PYTHONPATH=$PWD/src:$PETSC_DIR/bin
 
